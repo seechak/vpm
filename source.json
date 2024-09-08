@@ -1,0 +1,18 @@
+{
+    "name":"SEECHAK VRChat Package Listing",
+    "id":"com.seechak.repositories",
+    "url":"https://seechak.github.io/vpm/index.json",
+    "author":{
+        "email":"support@seechak.com",
+        "name":"SEECHAK",
+        "url":"https://seechak.com"
+    },
+    "description":"VPM package listing for SEECHAK",
+    "infoLink":{
+        "url":"https://seechak.com",
+        "text":"Go to SEECHAK"
+    },
+    "githubRepos":[
+        "seechak/sdk"
+    ]
+}
